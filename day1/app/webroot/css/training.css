@@ -1,0 +1,14 @@
+body {
+	background-color: #E1EFBB;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	padding: 20px 10px;
+	font-size: 2em;
+}
+
+p {
+	color: #000;
+	padding: 0 20px;
+}
